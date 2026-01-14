@@ -8,11 +8,13 @@ The repository is organized assignment-wise, with each assignment placed in its 
 
 ## Repository Structure
 
-DSAbmath/
+<pre>
+DSAbath/
 ├── Assignment-1/
 ├── Assignment-2/
-└── ...
-
+├── ...
+└── README.md
+</pre>
 
 - Each `Assignment-X` folder contains all source files, implementations, and related material for that specific assignment.
 - The numbering follows the official assignment order given in the course.
